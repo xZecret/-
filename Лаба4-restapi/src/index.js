@@ -6,25 +6,25 @@ const jsonParser = express.json();
 let students = [
   {
     id: 1,
-    firstName: "Ivan",
-    lastName: "Ivanov",
-    group: "VIS21",
+    firstName: "Leo",
+    lastName: "May",
+    group: "VMO21",
     createdAt: "2020-03-02T12:41:09.533Z",
     updatedAt: "2020-03-02T12:45:02.121Z"
   },
   {
     id: 2,
-    firstName: "Safi",
-    lastName: "Ali",
+    firstName: "Ivan",
+    lastName: "Soloviev",
     group: "VPI32",
     createdAt: "2020-03-02T12:41:09.533Z",
     updatedAt: "2020-03-02T12:45:02.121Z"
   },
   {
     id: 3,
-    firstName: "Hritick",
-    lastName: "Roshan",
-    group: "VPI42",
+    firstName: "Adam",
+    lastName: "Tkharkakhov",
+    group: "VPI32",
     createdAt: "2020-03-02T12:41:09.533Z",
     updatedAt: "2020-03-02T12:45:02.121Z"
   },
@@ -32,15 +32,15 @@ let students = [
     id: 4,
     firstName: "David",
     lastName: "Lay",
-    group: "VPI32",
+    group: "VIS21",
     createdAt: "2020-03-02T12:41:09.533Z",
     updatedAt: "2020-03-02T12:45:02.121Z"
   },
   {
     id: 5,
-    firstName: "Alex",
-    lastName: "May",
-    group: "VMO34",
+    firstName: "Eva",
+    lastName: "Brawn",
+    group: "VI34",
     createdAt: "2020-03-02T12:41:09.533Z",
     updatedAt: "2020-03-02T12:45:02.121Z"
   }
