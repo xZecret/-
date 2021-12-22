@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "group": "VIS21",
+    "createdAt": "2020-03-02T12:41:09.533Z",
+    "updatedAt": "2020-03-02T12:45:02.121Z"
+  },
+  {
+    "firstName": "Safi",
+    "lastName": "Ali",
+    "group": "VPI32",
+    "createdAt": "2021-10-23T02:31:30.153Z",
+    "updatedAt": "2021-10-23T02:32:18.598Z",
+    "id": 2
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Ray",
+    "group": "VMO32",
+    "createdAt": "2021-10-23T02:32:02.538Z",
+    "updatedAt": "2021-10-23T02:32:02.538Z",
+    "id": 3
+  },
+  {
+    "firstName": "Luba",
+    "lastName": "LUV",
+    "group": "VPI32",
+    "createdAt": "2021-10-23T02:32:02.538Z",
+    "updatedAt": "2021-10-23T02:32:02.538Z",
+    "id": 4
+  },
+  {
+    "id": 5,
+    "createdAt": "2021-12-12T11:31:00.656Z",
+    "updatedAt": "2021-12-12T11:31:00.656Z"
+  }
+]
