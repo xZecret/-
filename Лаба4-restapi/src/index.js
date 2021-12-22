@@ -30,7 +30,7 @@ let students = [
   },
   {
     id: 4,
-    firstName: "David",
+    firstName: "Kate",
     lastName: "Lay",
     group: "VIS21",
     createdAt: "2020-03-02T12:41:09.533Z",
