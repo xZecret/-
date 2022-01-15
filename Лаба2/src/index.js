@@ -1,11 +1,7 @@
 const express = require("express");
 const app = express();
-const bodyParser = require("body-parser");
-//зависимости
 var arr = []; //создание массива
 
-app.use(bodyParser.text());
-//используем в текстовом формате
 app.get("/", (req, res) => res.send("отправьте запрос"));
 
 app.get("/list", function (req, res) {
